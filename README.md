@@ -152,8 +152,7 @@ No known bugs at this time.
 
 ###### Version 3
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Felicia Hsieh - [Github](https://github.com/feliciahsieh) / [Twitter](https://twitter.com/feliciahsiehsw)
+- Bernard Ograh - [Github](https://github.com/bograh)
 
 ###### Version 2
 
